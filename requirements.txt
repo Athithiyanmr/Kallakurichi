@@ -1,0 +1,15 @@
+branca
+fiona
+folium
+geopandas
+matplotlib
+matplotlib-scalebar
+numpy
+openpyxl
+pygc
+pandas
+rasterio
+scipy
+
+
+
