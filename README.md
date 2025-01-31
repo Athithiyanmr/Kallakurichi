@@ -10,3 +10,8 @@ conda install jupyter nbconvert
 
 
 conda install --file requirements.txt -c conda-forge
+
+
+
+
+pip install dask-geopandas geopandas datashader
